@@ -1,0 +1,11 @@
+{"Asia":[["smartphone", "users"],["Apple iPhone XR Plus", 5],["Apple iPhone XR", 4],["Samsung Galaxy S10 Plus", 3],["Apple iPhone XS", 2], ["Apple iPhone 8", 1]],
+
+"North America":[["smartphone", "users"],["Apple iPhone XS Plus", 8],["Apple iPhone XR", 7],["Apple iPhone X", 5],["Apple iPhone X Plus", 3], ["Apple iPhone 8 Plus", 2]],
+
+"Europe":[["smartphone", "users"],["Apple iPhone XR Plus", 5],["Apple iPhone XR", 4],["Apple iPhone XS", 3],["Apple iPhone XS Plus", 2], ["Apple iPhone 8 Plus", 1]],
+
+"South America":[["smartphone", "users"], ["Samsung Galaxy S10 Plus", 6], ["Apple iPhone XS Plus", 4],["Apple iPhone XR", 2],["Samsung J5 Prime", 2], ["Apple iPhone X", 1]],
+
+"Africa":[["smartphone", "users"],["Apple iPhone XS Plus", 6], ["Apple iPhone XR", 4], ["Apple iPhone XS", 4], ["Apple iPhone 8 Plus", 3], ["Apple iPhone 8", 1]],
+
+"Oceania":[["smartphone", "users"],["Apple iPhone XR Plus", 5],["Apple iPhone XR", 5],["Apple iPhone XS", 2],["Apple iPhone 8 Plus", 1], ["Apple iPhone XS Plus", 1]]}
