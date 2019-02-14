@@ -1,0 +1,6 @@
+{"Asia":[["smartphone OS", "users"], ["Android", 35], ["IOS", 60], ["Others", 5]],
+"North America":[["smartphone OS", "users"], ["Android", 45], ["IOS", 53], ["Others", 2]],
+"Europe":[["smartphone OS", "users"], ["Android", 52], ["IOS", 37], ["Others", 11]],
+"South America":[["smartphone OS", "users"], ["Android", 40], ["IOS", 48], ["Others", 12]],
+"Africa":[["smartphone OS", "users"], ["Android", 52], ["IOS", 38], ["Others", 10]],
+"Oceania":[["smartphone OS", "users"], ["Android", 40], ["IOS", 58], ["Others", 2]]}
